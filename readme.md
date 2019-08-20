@@ -14,7 +14,7 @@ containerised in a docker swarm on kubernetes. This can be on premises or in the
 This is also more easily testable than for example an AWS-bound system. I believe that 
 true scalability means cloud agnosticism.
 
-##<u>Components' roles and purpose </u> ##
+## <u> Components' roles and purpose </u> ##
 
 ##### Client's browser / Web app
 Each page or Activity (Android screen) will be registered with the backend service. The page/activity will 
